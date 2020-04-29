@@ -65,7 +65,7 @@ remarkably, specializing for a new hardware platform does not add training cost 
 
 ## References
 <!-- Link to references -->
-* Once for All: Train One Network and Specialize it for Efficient Deployment [[Website]](https://ofa.mit.edu/) [[arXiv]](https://arxiv.org/abs/1908.09791) [[Slides]](https://hanlab.mit.edu/files/OnceForAll/OFA%20Slides.pdf) [[Video]](https://youtu.be/a_OeT8MXzWI)
+* Once for All: Train One Network and Specialize it for Efficient Deployment [[GitHub]](https://github.com/mit-han-lab/once-for-all) [[arXiv]](https://arxiv.org/abs/1908.09791) [[Slides]](https://hanlab.mit.edu/files/OnceForAll/OFA%20Slides.pdf) [[Video]](https://youtu.be/a_OeT8MXzWI)
 ```BibTex
 @inproceedings{
   cai2020once,
