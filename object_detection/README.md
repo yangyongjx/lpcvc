@@ -31,5 +31,9 @@ bash export_ssd.sh 0 15000 4e-5
 `````````
 You will get the tflite for final submission.
 
+### Test the tflite model
+
+You can the instruction in this [tutorial](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/tools/evaluation/tasks/coco_object_detection) and directly evaluate the performance of tflite. 
+
 ## Training on TPU
 If you want to use TPU for training, refer this [guideline](README_tpu.md).
