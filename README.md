@@ -49,7 +49,7 @@ OFA achieves 80.0% top1 accuracy with 595M MACs and 80.1% top1 accuracy with
 143ms Pixel1 latency, setting a new SOTA ImageNet Top1 accuracy on the mobile device.
 
 ### Consistently outperforms MobileNetV3 on Diverse hardware platforms
-![](https://hanlab.mit.edu/files/OnceForAll/figures/	diverse_hardware.png)
+![](https://hanlab.mit.edu/files/OnceForAll/figures/diverse_hardware.png)
 
 ## References
 <!-- Link to references -->
