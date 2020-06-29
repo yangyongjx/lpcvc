@@ -43,25 +43,13 @@ We address the challenging problem of efficient inference across many devices an
 ### 80% top1 ImageNet accuracy with <600M MACs
 ![](https://hanlab.mit.edu/files/OnceForAll/figures/cnn_imagenet_new.png)
 
-![](https://hanlab.mit.edu/files/OnceForAll/figures/ImageNet_mobile_80acc_mac.png)
+![](https://hanlab.mit.edu/files/OnceForAll/figures/imagenet_80_acc.png)
 
 OFA achieves 80.0% top1 accuracy with 595M MACs and 80.1% top1 accuracy with
 143ms Pixel1 latency, setting a new SOTA ImageNet Top1 accuracy on the mobile device.
 
-
-### Consistently outperforms MobileNet-V3
-![](https://hanlab.mit.edu/files/OnceForAll/figures/diverse_hardwares_new.png)
-
-OFA consistently outperforms MobileNetV3 on mobile platforms.
-
-### Support diverse hardware platforms
-![](https://hanlab.mit.edu/files/OnceForAll/figures/many_hardwares_new2.png)
-
-Specialized OFA models consistently achieve significantly higher ImageNet accuracy
-with similar latency than non-specialized neural networks on CPU, GPU, mGPU, and FPGA. More
-remarkably, specializing for a new hardware platform does not add training cost using OFA.
-
-
+### Consistently outperforms MobileNetV3 on Diverse hardware platforms
+![](https://hanlab.mit.edu/files/OnceForAll/figures/	diverse_hardware.png)
 
 ## References
 <!-- Link to references -->
