@@ -64,7 +64,7 @@ OFA achieves 80.0% top1 accuracy with 595M MACs and 80.1% top1 accuracy with
   url={https://arxiv.org/pdf/1908.09791.pdf}
 }
 ```
-* APQ: Joint Search for Network Architecture, Pruning and Quantization Policy (To be appear in CVPR 2020)
+* APQ: Joint Search for Network Architecture, Pruning and Quantization Policy (CVPR'2020) [[GitHub]](https://github.com/mit-han-lab/apq) [[arXiv]](https://arxiv.org/abs/2006.08509) [[Video]](https://www.youtube.com/watch?v=s5v23hTe60s&t=11s)
 ```BibTex
 @inproceedings{
   wang2020apq,
